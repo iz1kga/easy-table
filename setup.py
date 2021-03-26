@@ -14,7 +14,7 @@ setuptools.setup(
     description = "easy-table replacement",
     long_description = long_description,
     long_description_content_type = "text/markdown",
-    url = "",
+    url = "https://github.com/iz1kga/easy-table",
     license = "MIT License",
     classifiers = [
         'Programming Language :: Python :: 3',
